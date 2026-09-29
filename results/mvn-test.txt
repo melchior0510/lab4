@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [[1;34mINFO[m] Scanning for projects...
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--------------------< [0;36mmn.edu.must.sqat:lab04-junit[0;1m >--------------------[m
@@ -38,3 +39,7 @@
 [[1;34mINFO[m] Total time:  3.685 s
 [[1;34mINFO[m] Finished at: 2026-09-29T17:53:22Z
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+=======
+Command 'mvn' not found, but can be installed with:
+sudo apt install maven
+>>>>>>> b15e2bf79a3aec40db57ec558d480bd523f9bf07
